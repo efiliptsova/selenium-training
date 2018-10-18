@@ -1,2 +1,2 @@
 # selenium-training
-Обучение по курсу Selenium
+Обучение по курсу "Selenium. Полное руководство"
