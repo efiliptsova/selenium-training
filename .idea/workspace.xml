@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d366fe-16c2-490b-9d8e-59f19fe10451" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/relex/education/java/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/java-example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java-example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/java-example_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java-example_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/java-example_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java-example_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/relex/education/java/FirstTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/relex/education/java/MyFirstProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/relex/education/java/Point.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -58,16 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/relex/education/selenium/Task7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/relex/qaschool/QASchoolTask.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -77,41 +73,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/relex/education/java/FirstTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/relex/education/java/Point.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Math.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-824">
+            <state relative-caret-position="1326">
               <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/relex/education/java/MyFirstProgram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="111" selection-start-line="11" selection-start-column="111" selection-end-line="11" selection-end-column="111" />
             </state>
           </provider>
         </entry>
@@ -176,13 +141,15 @@
         <option value="$PROJECT_DIR$/src/test/java/ru/relex/education/java/Task_1_9.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/relex/education/java/Point.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/relex/education/java/Temp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/relex/education/java/PointTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/relex/education/java/MyFirstProgram.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/relex/education/java/DistanceTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="86" />
-    <option name="y" value="143" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="206" />
     <option name="width" value="1693" />
     <option name="height" value="782" />
   </component>
@@ -239,35 +206,6 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="relex" type="462c0819:PsiDirectoryNode" />
-              <item name="education" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium-training" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="relex" type="462c0819:PsiDirectoryNode" />
-              <item name="education" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium-training" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="relex" type="462c0819:PsiDirectoryNode" />
-              <item name="education" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium-training" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="relex" type="462c0819:PsiDirectoryNode" />
               <item name="qaschool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -303,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyFirstProgram">
+  <component name="RunManager" selected="JUnit.DistanceTest.testDistance">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -370,19 +308,19 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="LoginTest_v3.LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DistanceTest.testDistance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.relex.qaschool.*" />
+          <option name="PATTERN" value="ru.relex.education.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.relex.qaschool" />
-      <option name="MAIN_CLASS_NAME" value="ru.relex.qaschool.LoginTest_v3" />
-      <option name="METHOD_NAME" value="LoginTest" />
+      <option name="PACKAGE_NAME" value="ru.relex.education.java" />
+      <option name="MAIN_CLASS_NAME" value="ru.relex.education.java.DistanceTest" />
+      <option name="METHOD_NAME" value="testDistance" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -430,19 +368,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MyFirstProgram" />
       <item itemvalue="Gradle.FirstTest" />
       <item itemvalue="Gradle.LoginTest" />
       <item itemvalue="JUnit.LoginTest_v4.LoginTest" />
-      <item itemvalue="JUnit.LoginTest_v3.LoginTest" />
-      <item itemvalue="Application.MyFirstProgram" />
+      <item itemvalue="JUnit.DistanceTest.testDistance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DistanceTest.testDistance" />
         <item itemvalue="Application.MyFirstProgram" />
         <item itemvalue="Gradle.LoginTest" />
         <item itemvalue="Gradle.FirstTest" />
         <item itemvalue="JUnit.LoginTest_v4.LoginTest" />
-        <item itemvalue="JUnit.LoginTest_v3.LoginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -460,12 +398,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginTest_v4_LoginTest - 2019.03.27 at 01h 15m 10s.xml">
-      <configuration name="LoginTest_v4.LoginTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTest_v4_LoginTest - 2019.03.27 at 01h 21m 34s.xml">
-      <configuration name="LoginTest_v4.LoginTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LoginTest_v4_LoginTest - 2019.03.27 at 01h 22m 35s.xml">
       <configuration name="LoginTest_v4.LoginTest" configurationId="JUnit" />
     </history-entry>
@@ -490,6 +422,12 @@
     <history-entry file="LoginTest - 2019.05.27 at 20h 29m 29s.xml">
       <configuration name="LoginTest" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="DistanceTest_testDistance - 2019.06.11 at 16h 36m 57s.xml">
+      <configuration name="DistanceTest.testDistance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistanceTest_testDistance - 2019.06.11 at 16h 38m 00s.xml">
+      <configuration name="DistanceTest.testDistance" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -502,9 +440,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3411514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30063966" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -513,7 +450,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3430736" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3430736" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37554112" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -528,7 +465,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.16204691" />
+      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.14072494" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
@@ -765,13 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/relex/education/selenium/Task7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -779,10 +709,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/relex/qaschool/QASchoolTask.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="1326">
+          <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -809,10 +739,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Math.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-824">
-          <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
+        <state relative-caret-position="221">
+          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/relex/education/java/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/relex/education/java/MyFirstProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/relex/education/java/DistanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="20" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -823,21 +777,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/relex/education/java/Point.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/relex/qaschool/QASchoolTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/relex/education/java/MyFirstProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="111" selection-start-line="11" selection-start-column="111" selection-end-line="11" selection-end-column="111" />
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
